@@ -1,0 +1,12 @@
+.head .search {
+  width: 40%;
+}
+.head .select {
+  width: 30%;
+}
+.head .button-create {
+  width: 30%;
+}
+.head {
+  display: flex;
+}

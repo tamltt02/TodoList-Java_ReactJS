@@ -1,0 +1,9 @@
+.Modal-Create .ant-modal-title{
+    color: green
+}
+.Modal-Update .ant-modal-title{
+    color: blue
+}
+.Modal-Delete .ant-modal-title{
+    color: red
+}
